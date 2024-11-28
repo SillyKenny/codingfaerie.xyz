@@ -2,7 +2,7 @@
 
 My first website, wowie! Lets introduce 'em!
 
-## What is "codingfaerie.xyz"?
+## 🔎 What is "codingfaerie.xyz"?
 
 well, codingfaerie is my portfolio, resume, links holder, & more! ill show you all that codingfaerie holds :}
 
