@@ -1,12 +1,11 @@
-.parkinsans{
-  font-family: "Parkinsans", serif;
+.geist-mono{
+  font-family: "Geist Mono", monospace;
   font-optical-sizing: auto;
   font-weight: auto;
   font-style: normal;
 }
-
 body{
-  font-family: "Parkinsans", serif;
+  font-family: "Geist Mono", monospace;
   font-weight: 600;
   background-color: white;
   color: black;
@@ -20,16 +19,15 @@ header{
 .DrkMde{
   font-size: 16px;
   padding: 14px 10px;
-  font-family: "Parkinsans", serif;
+  font-family: "Geist Mono", monospace;
   font-weight: bold;
-  background-color: #4C2B36;
+  background-color: darkgray;
   border: none;
 }
 
-
 nav{
   overflow: hidden;
-  background-color: #4C2B36;
+  background-color: darkgray;
   color: black;
 }
 
@@ -111,4 +109,8 @@ nav a{
   color: #ad343a;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+footer{
+  text-align: center;
 }
