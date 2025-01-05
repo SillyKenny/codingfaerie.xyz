@@ -1,0 +1,226 @@
+@font-face {
+  font-family: "Dyslexia-Bold";
+  src: url("/assets/fonts/DYSLEXIA/OpenDyslexicAlta-Bold.otf");
+}
+@font-face {
+  font-family: "Dyslexia-Bold-Italic";
+  src: url("/assets/fonts/DYSLEXIA/OpenDyslexicAlta-BoldItalic.otf");
+}
+
+@font-face {
+  font-family: "Dyslexia-Italic";
+  src: url(/assets/fonts/DYSLEXIA/OpenDyslexicAlta-Italic.otf);
+}
+
+@font-face {
+  font-family: "Dyslexia";
+  src: url(/assets/fonts/DYSLEXIA/OpenDyslexicAlta-Regular.otf);
+}
+
+body{
+  background-color: lightseagreen;
+  color: lightgreen;
+  font-family: "Dyslexia";
+  text-align: center;
+}
+
+.red-btn{
+  background-color: lightpink;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.red-btn a{
+  background-color: lightpink;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.orange-btn{
+  background-color: lightsalmon;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.orange-btn a{
+  background-color: lightsalmon;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.yellow-btn{
+  background-color: lightyellow;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.yellow-btn a{
+  background-color: lightyellow;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.green-btn{
+  background-color: lightgreen;
+  border: none;
+  margin-top: 5px;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.green-btn a{
+  background-color: lightgreen;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.blue-btn{
+  background-color: lightskyblue;
+  border: none;
+  margin-top: 5px;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.blue-btn a{
+  background-color: lightskyblue;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.purple-btn{
+  background-color: lavender;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+.purple-btn a{
+  background-color: lavender;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.white-btn{
+  background-color: white;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+.white-btn a{
+  background-color: white;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: "Dyslexia";
+}
+
+.black-btn{
+  background-color: black;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-family: "Dyslexia";
+}
+
+.black-btn a{
+  background-color: black;
+  border: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-family: "Dyslexia";
+}
+
+h2{
+  color: white;
+}
+
+table{
+  text-align: center;
+}
+
+tr{
+  background-color: white;
+}
+
+tr{
+  border-bottom: 1px solid black;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
